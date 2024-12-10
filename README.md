@@ -1,5 +1,5 @@
 # Awesome Robot Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
-A curated list of recent robot learning papers incorporating diffusion models for manipulation planning, trajectory generation, policy learning etc.
+A curated list of recent robot learning papers incorporating diffusion models for manipulation, navigation, planning etc.
 
 <!-- <p align="center">
 <img src="https://makeavideo.studio/assets/overview.webp" width="240px"/>
@@ -20,9 +20,36 @@ A curated list of recent robot learning papers incorporating diffusion models fo
 </p> -->
 
 ## Table of Contents <!-- omit in toc -->
+- [Benchmarks](#benchmarks)
 - [Diffusion Policy: Manipulation](#diffusion-policy-manipulation)
 - [Diffusion Policy: Navigation](#diffusion-policy-navigation)
 - [Diffusion Generation Models Powered Robot Learning](#diffusion-generation-models-powered-robot-learning)
+
+
+### Benchmarks
+
+
++ [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087) (RSS 2018)
+  [![Star](https://img.shields.io/github/stars/aravindr93/hand_dapg.svg?style=social&label=Star)](https://github.com/aravindr93/hand_dapg)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1709.10087)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/deeprl-dexterous-manipulation)
+
++ [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2108.05877) (ECCV 2022)
+  [![Star](https://img.shields.io/github/stars/yzqin/dexmv-sim.svg?style=social&label=Star)](https://github.com/yzqin/dexmv-sim)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.05877)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yzqin.github.io/dexmv/)
+
++ [Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning](https://arxiv.org/pdf/2206.08686) (NeurIPS 2022 Datasets and Benchmarks Track)
+  [![Star](https://img.shields.io/github/stars/PKU-MARL/DexterousHands.svg?style=social&label=Star)](https://github.com/PKU-MARL/DexterousHands)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2206.08686)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-marl.github.io/DexterousHands/)
+
++ [Dexart: Benchmarking generalizable dexterous manipulation with articulated objects](https://arxiv.org/abs/2305.05706) (CVPR 2023)
+  [![Star](https://img.shields.io/github/stars/Kami-code/dexart-release.svg?style=social&label=Star)](https://github.com/Kami-code/dexart-release)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05706)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.chenbao.tech/dexart/)
+
+  Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked)
 
 ### Diffusion Policy: Manipulation
 + [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677) (ICLR 2023)
