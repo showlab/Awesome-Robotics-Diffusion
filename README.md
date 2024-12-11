@@ -22,12 +22,11 @@ A curated list of recent robot learning papers incorporating diffusion models fo
 ## Table of Contents <!-- omit in toc -->
 - [Benchmarks](#benchmarks)
 - [Diffusion Policy: Manipulation](#diffusion-policy-manipulation)
-- [Diffusion Policy: Navigation](#diffusion-policy-navigation)
+- [Diffusion Policy: Navigation / Task and Motion Planning](#diffusion-policy-navigation--task-and-motion-planning)
 - [Diffusion Generation Models Powered Robot Learning](#diffusion-generation-models-powered-robot-learning)
 
 
 ### Benchmarks
-
 
 + [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087) (RSS 2018)
   [![Star](https://img.shields.io/github/stars/aravindr93/hand_dapg.svg?style=social&label=Star)](https://github.com/aravindr93/hand_dapg)
@@ -102,6 +101,11 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/)
 
++ [Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/abs/2405.01527) (ECCV 2024)
+  [![Star](https://img.shields.io/github/stars/homangab/Track-2-Act.svg?style=social&label=Star)](https://github.com/homangab/Track-2-Act/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.01527)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://homangab.github.io/track2act/)
+
 + [Differentiable Robot Rendering](https://arxiv.org/abs/2410.13851) (CoRL 2024)
   [![Star](https://img.shields.io/github/stars/cvlab-columbia/drrobot.svg?style=social&label=Star)](https://github.com/cvlab-columbia/drrobot)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13851)
@@ -126,11 +130,6 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![Star](https://img.shields.io/github/stars/yjy0625/equibot.svg?style=social&label=Star)](https://github.com/yjy0625/equibot)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01479)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://equi-bot.github.io/)
-  
-+ [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
-  [![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)](https://github.com/buoyancy99/diffusion-forcing)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01392)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/)
 
 + [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954) (Mar 2024)
   [![Star](https://img.shields.io/github/stars/YanjieZe/3D-Diffusion-Policy.svg?style=social&label=Star)](https://github.com/YanjieZe/3D-Diffusion-Policy)
@@ -169,13 +168,33 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02989)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yulihn.github.io/DexDiffuser_page/)
 
+
 ### Diffusion Policy: Navigation / Task and Motion Planning
 
++ [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
+  [![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)](https://github.com/buoyancy99/diffusion-forcing)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01392)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/)
+
 ### Diffusion Generation Models Powered Robot Learning
++ [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02438)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.robot-learning.uk/dall-e-bot)
+  <!-- [![Star](https://img.shields.io/github/stars/ErinZhang1998/dmd_diffusion.svg?style=social&label=Star)](https://github.com/ErinZhang1998/dmd_diffusion) -->
+
 + [Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](https://arxiv.org/abs/2406.16862) (CoRL 2024)
   [![Star](https://img.shields.io/github/stars/cvlab-columbia/dreamitate.svg?style=social&label=Star)](https://github.com/cvlab-columbia/dreamitate)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
+
++ [Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning](https://arxiv.org/abs/2402.17768) (Feb 2024)
+  [![Star](https://img.shields.io/github/stars/ErinZhang1998/dmd_diffusion.svg?style=social&label=Star)](https://github.com/ErinZhang1998/dmd_diffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17768)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger)
+
+
+PoCo: Policy Composition from and for Heterogeneous Robot Learning (To be checked)
+
 
 <!-- ## Table of Contents omit in toc
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
