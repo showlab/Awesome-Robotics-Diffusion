@@ -239,6 +239,11 @@ Panda Arm
 + [ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301) (Jun 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13301)
 
++ [This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530) (July 2024)
+  [![Star](https://img.shields.io/github/stars/cfeng16/this-and-that.svg?style=social&label=Star)](https://github.com/cfeng16/this-and-that)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05530)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cfeng16.github.io/this-and-that/)
+
 + [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (ICML 2024)
   [![Star](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Star)](https://github.com/rainbow979/robodreamer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.12377)
@@ -249,17 +254,17 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09016)
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger) -->
 
+Cacti: A framework for scalable multi-task multi-scene visual imitation learning
 
+GenAug: Retargeting behaviors to unseen situations via Generative Augmentation
 
-This&That: Language-Gesture Controlled Video Generation for Robot Planning
-
-Diffusion Reward: Learning Rewards via Conditional Video Diffusion
+Scaling Robot Learning with Semantically Imagined Experience
 
 SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution
 
 Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
 
-
+Diffusion model is an effective planner and data synthesizer for multi-task reinforcement learning
 
 
 #### World models in robotics:
