@@ -56,7 +56,9 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.chenbao.tech/dexart/)
 
 Visual Pusher
+
 Bridege
+
 Panda Arm
 
   Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked)
@@ -106,11 +108,6 @@ Panda Arm
   [![Star](https://img.shields.io/github/stars/Aaditya-Prasad/Consistency-Policy.svg?style=social&label=Star)](https://github.com/Aaditya-Prasad/Consistency-Policy/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.07503)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://consistency-policy.github.io/)
-
-+ [Diffusion reward: Learning rewards via conditional video diffusion](https://arxiv.org/abs/2312.14134) (ECCV 2024)
-  [![Star](https://img.shields.io/github/stars/TEA-Lab/diffusion_reward.svg?style=social&label=Star)](https://github.com/TEA-Lab/diffusion_reward)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/)
 
 + [Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/abs/2405.01527) (ECCV 2024)
   [![Star](https://img.shields.io/github/stars/homangab/Track-2-Act.svg?style=social&label=Star)](https://github.com/homangab/Track-2-Act/)
@@ -208,7 +205,7 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00111)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
-+ [Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576) (ICLR 2024)
++ [[AVDC] Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576) (ICLR 2024)
   [![Star](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Star)](https://github.com/flow-diffusion/AVDC)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08576)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://flow-diffusion.github.io/)
@@ -218,17 +215,34 @@ Panda Arm
   [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-simulator.github.io/unisim/)
   <!-- [![Star](https://img.shields.io/github/stars/ErinZhang1998/dmd_diffusion.svg?style=social&label=Star)](https://github.com/ErinZhang1998/dmd_diffusion) -->
 
-Video language planning
+
++ [Compositional Foundation Models for Hierarchical Planning](https://arxiv.org/abs/2309.08587) (NeurIPS 2023)
+  [![Star](https://img.shields.io/github/stars/anuragajay/hip.svg?style=social&label=Star)](https://github.com/anuragajay/hip)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.08587)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hierarchical-planning-foundation-model.github.io/)
 
 + [Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning](https://arxiv.org/abs/2402.17768) (Feb 2024)
   [![Star](https://img.shields.io/github/stars/ErinZhang1998/dmd_diffusion.svg?style=social&label=Star)](https://github.com/ErinZhang1998/dmd_diffusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17768)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger)
 
++ [Video language planning](https://arxiv.org/abs/2310.10625) (ICLR 2024)
+  [![Star](https://img.shields.io/github/stars/video-language-planning/vlp_code.svg?style=social&label=Star)](https://github.com/video-language-planning/vlp_code)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10625)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-language-planning.github.io/)
+  
 + [Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](https://arxiv.org/abs/2406.16862) (CoRL 2024)
   [![Star](https://img.shields.io/github/stars/cvlab-columbia/dreamitate.svg?style=social&label=Star)](https://github.com/cvlab-columbia/dreamitate)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
+
++ [ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301) (Jun 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13301)
+
++ [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (ICML 2024)
+  [![Star](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Star)](https://github.com/rainbow979/robodreamer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.12377)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/)
 
 + [Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation](https://arxiv.org/abs/2409.09016) (NeurIPS 2024)
   [![Star](https://img.shields.io/github/stars/OpenDriveLab/CLOVER.svg?style=social&label=Star)](https://github.com/OpenDriveLab/CLOVER)
@@ -236,20 +250,36 @@ Video language planning
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger) -->
 
 
-Learning compositional world models for robot imagination
+
 This&That: Language-Gesture Controlled Video Generation for Robot Planning
 
+Diffusion Reward: Learning Rewards via Conditional Video Diffusion
 
-Other world models:
-RoboDreamer: Learning Compositional World Models for Robot Imagination ICML 2024
+SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution
+
+Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
+
+
+
+
+#### World models in robotics:
+
 IRASim: Learning Interactive Real-Robot Action Simulators arXiv 2024.6
+
 Structured World Models from Human Videos RSS 2023
+
 HARP: Autoregressive Latent Video Prediction with High-Fidelity Image Generator ICIP 2022
+
 DayDreamer: World Models for Physical Robot Learning CoRL 2022
 
 
 
 ### Robot Learning Utilizing Diffusion Model Properties
 PoCo: Policy Composition from and for Heterogeneous Robot Learning (To be checked)
+
 Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion (To be checked)
 
++ [Diffusion reward: Learning rewards via conditional video diffusion](https://arxiv.org/abs/2312.14134) (ECCV 2024)
+  [![Star](https://img.shields.io/github/stars/TEA-Lab/diffusion_reward.svg?style=social&label=Star)](https://github.com/TEA-Lab/diffusion_reward)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/)
