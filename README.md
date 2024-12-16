@@ -21,10 +21,9 @@ A curated list of recent robot learning papers incorporating diffusion models fo
 
 ## Table of Contents <!-- omit in toc -->
 - [Benchmarks](#benchmarks)
-- [Diffusion Policy: Manipulation](#diffusion-policy-manipulation)
-- [Diffusion Policy: Navigation / Task and Motion Planning](#diffusion-policy-navigation--task-and-motion-planning)
-- [Diffusion Generation Models Powered Robot Learning](#diffusion-generation-models-powered-robot-learning)
-- [Robot Learning Utilizing Diffusion Model Properties](#robot-learning-Utilizing-Diffusion-Model0Properties)
+- [Diffusion Policy](#diffusion-policy)
+- [Diffusion Generation Models in Robot Learning](#diffusion-generation-models-in-robot-learning)
+- [Robot Learning Utilizing Diffusion Model Properties](#robot-learning-utilizing-diffusion-model-properties)
 
 
 ### Benchmarks
@@ -39,6 +38,10 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1910.10897)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://meta-world.github.io/)
 
++ [Bridge data: Boosting generalization of robotic skills with cross-domain datasets](https://arxiv.org/abs/2109.13396) (RSS 2022)
+  [![Star](https://img.shields.io/github/stars/yanlai00/bridge_data_imitation_learning.svg?style=social&label=Star)](https://github.com/yanlai00/bridge_data_imitation_learning)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.13396)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/bridgedata)
 
 + [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2108.05877) (ECCV 2022)
   [![Star](https://img.shields.io/github/stars/yzqin/dexmv-sim.svg?style=social&label=Star)](https://github.com/yzqin/dexmv-sim)
@@ -55,15 +58,20 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05706)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.chenbao.tech/dexart/)
 
++ [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2305.05706) (CoRL 2023)
+  [![Star](https://img.shields.io/github/stars/rail-berkeley/bridge_data_v2.svg?style=social&label=Star)](https://github.com/rail-berkeley/bridge_data_v2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12952)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://rail-berkeley.github.io/bridgedata/)
+
 Visual Pusher
 
-Bridege
 
 Panda Arm
 
   Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked)
 
-### Diffusion Policy: Manipulation
+### Diffusion Policy
+#### Manipulation
 + [Imitating Human Behaviour with Diffusion Models](https://arxiv.org/abs/2301.10677) (ICLR 2023)
   [![Star](https://img.shields.io/github/stars/microsoft/Imitating-Human-Behaviour-w-Diffusion.svg?style=social&label=Star)](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.10677)
@@ -167,7 +175,7 @@ Panda Arm
 
 
 
-#### Grasping / Rearrangement
+#### Grasping / Reorientation
 + [Shelving, stacking, hanging: Relational pose diffusion for multi-modal rearrangement](https://arxiv.org/abs/2307.04751) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/anthonysimeonov/rpdiff.svg?style=social&label=Star)](https://github.com/anthonysimeonov/rpdiff)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04751)
@@ -188,29 +196,29 @@ Panda Arm
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yulihn.github.io/DexDiffuser_page/)
 
 
-### Diffusion Policy: Navigation / Task and Motion Planning
+#### Navigation / Task and Motion Planning
 
 + [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
   [![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)](https://github.com/buoyancy99/diffusion-forcing)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01392)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/)
 
-### Diffusion Generation Models Powered Robot Learning
-+ [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
+### Diffusion Generation Models in Robot Learning
++ DALL-E-Bot: [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02438)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.robot-learning.uk/dall-e-bot)
   <!-- [![Star](https://img.shields.io/github/stars/ErinZhang1998/dmd_diffusion.svg?style=social&label=Star)](https://github.com/ErinZhang1998/dmd_diffusion) -->
 
-+ [[UniPi] Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (NeurIPS 2023)
++ UniPi: [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (NeurIPS 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00111)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
-+ [[AVDC] Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576) (ICLR 2024)
++ AVDC: [Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576) (ICLR 2024)
   [![Star](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Star)](https://github.com/flow-diffusion/AVDC)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.08576)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://flow-diffusion.github.io/)
 
-+ [UniSim: Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) (ICLR 2024)
++ UniSim: [UniSim: Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) (ICLR 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.06114)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-simulator.github.io/unisim/)
   <!-- [![Star](https://img.shields.io/github/stars/ErinZhang1998/dmd_diffusion.svg?style=social&label=Star)](https://github.com/ErinZhang1998/dmd_diffusion) -->
@@ -231,20 +239,20 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10625)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-language-planning.github.io/)
   
-+ [Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](https://arxiv.org/abs/2406.16862) (CoRL 2024)
++ Dreamitate: [Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](https://arxiv.org/abs/2406.16862) (CoRL 2024)
   [![Star](https://img.shields.io/github/stars/cvlab-columbia/dreamitate.svg?style=social&label=Star)](https://github.com/cvlab-columbia/dreamitate)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16862)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamitate.cs.columbia.edu/)
 
-+ [ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301) (Jun 2024)
++ ARDuP: [ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301) (Jun 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13301)
 
-+ [This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530) (July 2024)
++ This&That: [This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530) (July 2024)
   [![Star](https://img.shields.io/github/stars/cfeng16/this-and-that.svg?style=social&label=Star)](https://github.com/cfeng16/this-and-that)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.05530)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cfeng16.github.io/this-and-that/)
 
-+ [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (ICML 2024)
++ RoboDreamer: [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (ICML 2024)
   [![Star](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Star)](https://github.com/rainbow979/robodreamer)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.12377)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/)
@@ -254,9 +262,18 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09016)
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger) -->
 
-Cacti: A framework for scalable multi-task multi-scene visual imitation learning
+#### [unread]
 
-GenAug: Retargeting behaviors to unseen situations via Generative Augmentation
++ Cacti: [Cacti: A framework for scalable multi-task multi-scene visual imitation learning](https://arxiv.org/abs/2212.05711) (CoRL 2022 Workshop PRL)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05711)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cacti-framework.github.io/)
+
++ GenAug: [GenAug: Retargeting behaviors to unseen situations via Generative Augmentation](https://arxiv.org/abs/2302.06671)
+  [![Star](https://img.shields.io/github/stars/genaug/genaug.svg?style=social&label=Star)](https://github.com/genaug/genaug)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.06671)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://genaug.github.io/)
+
+
 
 Scaling Robot Learning with Semantically Imagined Experience
 
