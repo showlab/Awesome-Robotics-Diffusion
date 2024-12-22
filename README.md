@@ -162,8 +162,18 @@ Panda Arm
   [![Website](https://img.shields.io/badge/Website-9cf)](https://glide-manip.github.io/)
   <!-- [![Star](https://img.shields.io/github/stars/HRI-EU/flow-matching-policy.svg?style=social&label=Star)](https://github.com/HRI-EU/flow-matching-policy) -->
 
+PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play
+
+Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models
+
+XSkill: Cross Embodiment Skill Discovery
+
+Waypoint-Based Imitation Learning for Robotic Manipulation
+
+UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers
 
 
+Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior (Theoretically based)
 
 #### Humanoid
 
@@ -202,6 +212,8 @@ Panda Arm
   [![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)](https://github.com/buoyancy99/diffusion-forcing)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01392)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/)
+
+NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
 
 ### Diffusion Generation Models in Robot Learning
 + DALL-E-Bot: [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
@@ -294,6 +306,9 @@ HARP: Autoregressive Latent Video Prediction with High-Fidelity Image Generator 
 
 DayDreamer: World Models for Physical Robot Learning CoRL 2022
 
+#### Other work studying data generation in robotics (Not using diffusion)
+
+MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations
 
 
 ### Robot Learning Utilizing Diffusion Model Properties
