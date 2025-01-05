@@ -100,6 +100,15 @@ Panda Arm
   [![Star](https://img.shields.io/github/stars/zhouxian/act3d-chained-diffuser.svg?style=social&label=Star)](https://github.com/zhouxian/act3d-chained-diffuser)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chained-diffuser.github.io/)
 
++ GSC: [Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models](https://arxiv.org/pdf/2401.03360) (CoRL 2023)
+  [![Star](https://img.shields.io/github/stars/generative-skill-chaining/gsc-code.svg?style=social&label=Star)](https://github.com/generative-skill-chaining/gsc-code)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.03360)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-skill-chaining.github.io/)
+
++ PlayFusion: [PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play](https://arxiv.org/pdf/2312.04549) (CoRL 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.04549)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://play-fusion.github.io/)
+
 + [Memory-Consistent Neural Networks for Imitation Learning](https://arxiv.org/abs/2310.06171) (ICLR 2024)
   [![Star](https://img.shields.io/github/stars/kaustubhsridhar/MCNN.svg?style=social&label=Star)](https://github.com/kaustubhsridhar/MCNN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.06171)
@@ -162,9 +171,11 @@ Panda Arm
   [![Website](https://img.shields.io/badge/Website-9cf)](https://glide-manip.github.io/)
   <!-- [![Star](https://img.shields.io/github/stars/HRI-EU/flow-matching-policy.svg?style=social&label=Star)](https://github.com/HRI-EU/flow-matching-policy) -->
 
-PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play
 
-Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models
+
+
+
+
 
 XSkill: Cross Embodiment Skill Discovery
 
@@ -172,8 +183,25 @@ Waypoint-Based Imitation Learning for Robotic Manipulation
 
 UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers
 
+Adaptive Online Replanning with Diffusion Models
+
+3D Diffuser Actor: Policy Diffusion with 3D Scene Representations
 
 Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior (Theoretically based)
+
+Flow Matching Imitation Learning for Multi-Support Manipulation (Flow matching)
+
+Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States
+
+DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability (With constraint)
+
+Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
+
+ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos
+
+3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing (Include tactile)
+
+SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting (Sim2Real)
 
 #### Humanoid
 
@@ -214,6 +242,12 @@ Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stabilit
   [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/)
 
 NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
+
+DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots
+
+SafeDiffuser: Safe Planning with Diffusion Probabilistic Models
+
+LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance
 
 ### Diffusion Generation Models in Robot Learning
 + DALL-E-Bot: [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
