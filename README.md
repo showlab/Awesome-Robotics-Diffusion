@@ -171,10 +171,23 @@ Panda Arm
   [![Website](https://img.shields.io/badge/Website-9cf)](https://glide-manip.github.io/)
   <!-- [![Star](https://img.shields.io/github/stars/HRI-EU/flow-matching-policy.svg?style=social&label=Star)](https://github.com/HRI-EU/flow-matching-policy) -->
 
++ [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/pdf/2412.03293) (Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03293)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-vla.github.io/)
 
 
 
 
+
+
+
+
+
+
+
+PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play
+
+Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models
 
 
 XSkill: Cross Embodiment Skill Discovery
