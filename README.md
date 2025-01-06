@@ -100,12 +100,12 @@ Panda Arm
   [![Star](https://img.shields.io/github/stars/zhouxian/act3d-chained-diffuser.svg?style=social&label=Star)](https://github.com/zhouxian/act3d-chained-diffuser)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chained-diffuser.github.io/)
 
-+ GSC: [Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models](https://arxiv.org/pdf/2401.03360) (CoRL 2023)
++ [Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models](https://arxiv.org/pdf/2401.03360) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/generative-skill-chaining/gsc-code.svg?style=social&label=Star)](https://github.com/generative-skill-chaining/gsc-code)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.03360)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-skill-chaining.github.io/)
 
-+ PlayFusion: [PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play](https://arxiv.org/pdf/2312.04549) (CoRL 2023)
++ [PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play](https://arxiv.org/pdf/2312.04549) (CoRL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.04549)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://play-fusion.github.io/)
 
@@ -176,21 +176,19 @@ Panda Arm
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-vla.github.io/)
 
 
++ [XSkill: Cross Embodiment Skill Discovery](https://arxiv.org/abs/2307.09955) (CoRL 2023)
+  [![Star](https://img.shields.io/github/stars/real-stanford/xskill.svg?style=social&label=Star)](https://github.com/real-stanford/xskill)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09955)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xskill.cs.columbia.edu/)
 
 
 
++ [SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution](https://arxiv.org/abs/2312.11598) (CVPR 2024)
+  [![Star](https://img.shields.io/github/stars/Liang-ZX/skilldiffuser.svg?style=social&label=Star)](https://github.com/Liang-ZX/skilldiffuser)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11598)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://skilldiffuser.github.io/)
 
-
-
-
-
-
-PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play
-
-Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models
-
-
-XSkill: Cross Embodiment Skill Discovery
+Is Conditional Generative Modeling all you need for Decision-Making? (Decision Diffuser)
 
 Waypoint-Based Imitation Learning for Robotic Manipulation
 
@@ -215,6 +213,24 @@ ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos
 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing (Include tactile)
 
 SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting (Sim2Real)
+
+Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects (Deformable)
+
+Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (Both manipulation and navigation)
+
+Diffusion Co-Policy for Synergistic Human-Robot Collaborative Tasks
+
+PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations
+
+GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
+
+Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control (considering compliance / forces during manipulation)
+
+CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
+
+Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation (3D, single task generalization)
+
+MaIL: Improving Imitation Learning with Selective State Space Models (using Mamba)
 
 #### Humanoid
 
@@ -261,6 +277,8 @@ DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots
 SafeDiffuser: Safe Planning with Diffusion Probabilistic Models
 
 LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance
+
+DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
 
 ### Diffusion Generation Models in Robot Learning
 + DALL-E-Bot: [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
@@ -333,10 +351,9 @@ LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoi
   [![Website](https://img.shields.io/badge/Website-9cf)](https://genaug.github.io/)
 
 
+Generative Image as Action Models
 
 Scaling Robot Learning with Semantically Imagined Experience
-
-SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution
 
 Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
 
@@ -362,6 +379,8 @@ MimicGen: A Data Generation System for Scalable Robot Learning using Human Demon
 PoCo: Policy Composition from and for Heterogeneous Robot Learning (To be checked)
 
 Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion (To be checked)
+
+Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
 
 + [Diffusion reward: Learning rewards via conditional video diffusion](https://arxiv.org/abs/2312.14134) (ECCV 2024)
   [![Star](https://img.shields.io/github/stars/TEA-Lab/diffusion_reward.svg?style=social&label=Star)](https://github.com/TEA-Lab/diffusion_reward)
