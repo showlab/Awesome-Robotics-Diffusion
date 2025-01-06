@@ -342,6 +342,11 @@ LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09016)
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger) -->
 
++ SOAR: [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/rail-berkeley/soar.svg?style=social&label=Star)](https://github.com/rail-berkeley/soar)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20635)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://auto-improvement.github.io/)
+
 #### [unread]
 
 + Cacti: [Cacti: A framework for scalable multi-task multi-scene visual imitation learning](https://arxiv.org/abs/2212.05711) (CoRL 2022 Workshop PRL)
