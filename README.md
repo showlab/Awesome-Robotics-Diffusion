@@ -63,6 +63,18 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12952)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://rail-berkeley.github.io/bridgedata/)
 
++ [CALVIN: A Benchmark for Language-conditioned Policy Learning for Long-horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227) (RAL 2022)
+  [![Star](https://img.shields.io/github/stars/mees/calvin.svg?style=social&label=Star)](https://github.com/mees/calvin)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.03227)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://calvin.cs.uni-freiburg.de/)
+
++ [RLBench: The Robot Learning Benchmark & Learning Environment
+](https://arxiv.org/abs/1909.12271) (RAL 2020)
+  [![Star](https://img.shields.io/github/stars/stepjam/RLBench.svg?style=social&label=Star)](https://github.com/stepjam/RLBench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1909.12271)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/rlbench/home)
+
+
 Visual Pusher
 
 
@@ -232,6 +244,8 @@ Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Mani
 
 MaIL: Improving Imitation Learning with Selective State Space Models (using Mamba)
 
+Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning
+
 #### Humanoid
 
 + [Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies](https://arxiv.org/abs/2410.10803) (Oct 2024)
@@ -262,6 +276,11 @@ MaIL: Improving Imitation Learning with Selective State Space Models (using Mamb
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.02989)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yulihn.github.io/DexDiffuser_page/)
 
++ [Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy](https://arxiv.org/abs/2403.12421) (Mar 2024)
+  [![Star](https://img.shields.io/github/stars/tianhaowuhz/DexFunPreGrasp.svg?style=social&label=Star)](https://github.com/tianhaowuhz/DexFunPreGrasp)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12421)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://unidexfpm.github.io/)
+
 
 #### Navigation / Task and Motion Planning
 
@@ -275,6 +294,8 @@ NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
 DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots
 
 SafeDiffuser: Safe Planning with Diffusion Probabilistic Models
+
+LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning
 
 LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance
 
@@ -338,6 +359,11 @@ DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
   [![Star](https://img.shields.io/github/stars/OpenDriveLab/CLOVER.svg?style=social&label=Star)](https://github.com/OpenDriveLab/CLOVER)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09016)
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger) -->
+
++ SOAR: [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/rail-berkeley/soar.svg?style=social&label=Star)](https://github.com/rail-berkeley/soar)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20635)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://auto-improvement.github.io/)
 
 #### [unread]
 
