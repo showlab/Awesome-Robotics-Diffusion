@@ -168,7 +168,12 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01479)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://equi-bot.github.io/)
 
-+ [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954) (Mar 2024)
++ [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/nickgkan/3d_diffuser_actor.svg?style=social&label=Star)](https://github.com/nickgkan/3d_diffuser_actor)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10885)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-diffuser-actor.github.io/)
+
++ [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954) (RSS 2024)
   [![Star](https://img.shields.io/github/stars/YanjieZe/3D-Diffusion-Policy.svg?style=social&label=Star)](https://github.com/YanjieZe/3D-Diffusion-Policy)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03954)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-diffusion-policy.github.io/)
@@ -187,13 +192,10 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03293)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-vla.github.io/)
 
-
 + [XSkill: Cross Embodiment Skill Discovery](https://arxiv.org/abs/2307.09955) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/real-stanford/xskill.svg?style=social&label=Star)](https://github.com/real-stanford/xskill)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09955)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://xskill.cs.columbia.edu/)
-
-
 
 + [SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution](https://arxiv.org/abs/2312.11598) (CVPR 2024)
   [![Star](https://img.shields.io/github/stars/Liang-ZX/skilldiffuser.svg?style=social&label=Star)](https://github.com/Liang-ZX/skilldiffuser)
@@ -202,15 +204,31 @@ Panda Arm
 
 Is Conditional Generative Modeling all you need for Decision-Making? (Decision Diffuser)
 
-Waypoint-Based Imitation Learning for Robotic Manipulation
 
-UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers
++ [Waypoint-Based Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2307.14326) (CoRL 2023)
+  [![Star](https://img.shields.io/github/stars/lucys0/awe.svg?style=social&label=Star)](https://github.com/lucys0/awe)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14326)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lucys0.github.io/awe/)
 
-Adaptive Online Replanning with Diffusion Models
 
-3D Diffuser Actor: Policy Diffusion with 3D Scene Representations
++ [RoLD: Robot Latent Diffusion for Multi-task Policy Modeling](https://arxiv.org/abs/2403.07312v3) ()
+  [![Star](https://img.shields.io/github/stars/AlbertTan404/RoLD.svg?style=social&label=Star)](https://github.com/AlbertTan404/RoLD)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07312v3)
 
-Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior (Theoretically based)
+
++ [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/real-stanford/umi-on-legs.svg?style=social&label=Star)](https://github.com/real-stanford/umi-on-legs)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10353)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://umi-on-legs.github.io/)
+
+
++ [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
+  [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09629)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/replandiffuser/)
+
+
+Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior (Highly Theoretical)
 
 Flow Matching Imitation Learning for Multi-Support Manipulation (Flow matching)
 
@@ -228,6 +246,8 @@ SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussia
 
 Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects (Deformable)
 
+SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy (3D deformable objects)
+
 Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (Both manipulation and navigation)
 
 Diffusion Co-Policy for Synergistic Human-Robot Collaborative Tasks
@@ -238,23 +258,56 @@ GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (sin
 
 Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control (considering compliance / forces during manipulation)
 
+ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation (forces centric)
+
+Learning Diffusion Policies from Demonstrations For Compliant Contact-rich Manipulation (considering compliance / forces)
+
 CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
 
-Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation (3D, single task generalization)
+Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation (3D, object centric, single task generalization)
+
+Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Policy Learning using Affordance-Centric Task Frames (object centric)
 
 MaIL: Improving Imitation Learning with Selective State Space Models (using Mamba)
 
 Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning
 
-#### Humanoid
+The Ingredients for Robotic Diffusion Transformers
+
+Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation
+
+C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation)
+
+DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
+
+Sampling Constrained Trajectories Using Composable Diffusion Models (Trajectory optimization with constraints present)
+
+SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation (Tracking object pose)
+
+Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress (out-of-distribution scenarios, detect failures)
+
++ [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cpmcorl2023.github.io/)
+
+FREE FROM BELLMAN COMPLETENESS: TRAJECTORY STITCHING VIA MODEL-BASED RETURN-CONDITIONED SUPERVISED LEARNING
+
+One-Shot Imitation under Mismatched Execution
+
+LANGUAGE CONTROL DIFFUSION: EFFICIENTLY SCALING THROUGH SPACE, TIME, AND TASKS
+
+#### Locomotion
 
 + [Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies](https://arxiv.org/abs/2410.10803) (Oct 2024)
   [![Star](https://img.shields.io/github/stars/YanjieZe/Improved-3D-Diffusion-Policy.svg?style=social&label=Star)](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10803)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanoid-manipulation.github.io/)
 
+Diffusion-based learning of contact plans for agile locomotion
 
+DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation (To be checked)
 
+Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control (out-of-distribution issue)
 
 #### Grasping / Reorientation
 + [Shelving, stacking, hanging: Relational pose diffusion for multi-modal rearrangement](https://arxiv.org/abs/2307.04751) (CoRL 2023)
@@ -281,6 +334,7 @@ Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12421)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://unidexfpm.github.io/)
 
+Learning Visuotactile Skills with Two Multifingered Hands
 
 #### Navigation / Task and Motion Planning
 
@@ -300,6 +354,14 @@ LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-b
 LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance
 
 DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
+
+DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning (motion planning)
+
+Potential Based Diffusion Motion Planning
+
+#### Others
+
+DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models (Drones)
 
 ### Diffusion Generation Models in Robot Learning
 + DALL-E-Bot: [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
@@ -376,6 +438,7 @@ DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.06671)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://genaug.github.io/)
 
+GR-MG: Leveraging Partially-Annotated Data via Multi-Modal Goal-Conditioned Policy (generate goal image)
 
 Generative Image as Action Models
 
@@ -384,6 +447,8 @@ Scaling Robot Learning with Semantically Imagined Experience
 Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
 
 Diffusion model is an effective planner and data synthesizer for multi-task reinforcement learning
+
+3D Vision-Language-Action Generative World Model
 
 
 #### World models in robotics:
@@ -408,7 +473,15 @@ Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion (To be ch
 
 Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
 
+Imitation Learning from Purified Demonstrations (using forward & reverse diffusion process to purify imperfect demonstrations)
+
++ [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
+  [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09629)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/replandiffuser/)
+
 + [Diffusion reward: Learning rewards via conditional video diffusion](https://arxiv.org/abs/2312.14134) (ECCV 2024)
   [![Star](https://img.shields.io/github/stars/TEA-Lab/diffusion_reward.svg?style=social&label=Star)](https://github.com/TEA-Lab/diffusion_reward)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/)
+
