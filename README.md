@@ -68,11 +68,15 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.03227)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://calvin.cs.uni-freiburg.de/)
 
-+ [RLBench: The Robot Learning Benchmark & Learning Environment
-](https://arxiv.org/abs/1909.12271) (RAL 2020)
++ [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) (RAL 2020)
   [![Star](https://img.shields.io/github/stars/stepjam/RLBench.svg?style=social&label=Star)](https://github.com/stepjam/RLBench)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1909.12271)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/rlbench/home)
+
++ [LIBERO: Benchmarking Knowledge Transfer in Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) (NeurIPS 2023 Dataset and Benchmark Track)
+  [![Star](https://img.shields.io/github/stars/Lifelong-Robot-Learning/LIBERO.svg?style=social&label=Star)](https://github.com/Lifelong-Robot-Learning/LIBERO)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.03310)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://libero-project.github.io/intro.html)
 
 
 Visual Pusher
@@ -201,6 +205,17 @@ Panda Arm
   [![Star](https://img.shields.io/github/stars/Liang-ZX/skilldiffuser.svg?style=social&label=Star)](https://github.com/Liang-ZX/skilldiffuser)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11598)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://skilldiffuser.github.io/)
+
++ [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890) (CVPR 2024)
+  [![Star](https://img.shields.io/github/stars/dyson-ai/hdp.svg?style=social&label=Star)](https://github.com/dyson-ai/hdp)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.038908)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yusufma03.github.io/projects/hdp/)
+
++ [Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning](https://arxiv.org/abs/2412.12953) (Dec 2024)
+  [![Star](https://img.shields.io/github/stars/intuitive-robots/MoDE_Diffusion_Policy.svg?style=social&label=Star)](https://github.com/intuitive-robots/MoDE_Diffusion_Policy)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12953)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mbreuss.github.io/MoDE_Diffusion_Policy/)
+
 
 Is Conditional Generative Modeling all you need for Decision-Making? (Decision Diffuser)
 
