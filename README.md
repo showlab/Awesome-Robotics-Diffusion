@@ -236,6 +236,9 @@ Is Conditional Generative Modeling all you need for Decision-Making? (Decision D
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10353)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://umi-on-legs.github.io/)
 
+Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpoints and Regions (mobile manipulation)
+
+M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes (mobile manipulation)
 
 + [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
@@ -255,13 +258,13 @@ Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Mani
 
 ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos
 
-3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing (Include tactile)
-
 SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting (Sim2Real)
 
 Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects (Deformable)
 
 SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy (3D deformable objects)
+
+RoPotter: Toward Robotic Pottery and Deformable Object Manipulation with Structural Priors (3D deformable, pottery)
 
 Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (Both manipulation and navigation)
 
@@ -276,6 +279,14 @@ Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided
 ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation (forces centric)
 
 Learning Diffusion Policies from Demonstrations For Compliant Contact-rich Manipulation (considering compliance / forces)
+
+VITaL Pretraining: Visuo-Tactile Pretraining for Tactile and Non-Tactile Manipulation Policies (force, tactile)
+
+TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation (force, tactile)
+
+3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing (Include tactile)
+
+Admittance Visuomotor Policy Learning for General-Purpose Contact-Rich Manipulations (force, contact-rich)
 
 CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
 
@@ -310,6 +321,8 @@ FREE FROM BELLMAN COMPLETENESS: TRAJECTORY STITCHING VIA MODEL-BASED RETURN-COND
 One-Shot Imitation under Mismatched Execution
 
 LANGUAGE CONTROL DIFFUSION: EFFICIENTLY SCALING THROUGH SPACE, TIME, AND TASKS
+
+SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds
 
 #### Locomotion
 
@@ -465,6 +478,7 @@ Diffusion model is an effective planner and data synthesizer for multi-task rein
 
 3D Vision-Language-Action Generative World Model
 
+Learning Visual Parkour from Generated Images
 
 #### World models in robotics:
 
@@ -489,6 +503,8 @@ Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion (To be ch
 Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
 
 Imitation Learning from Purified Demonstrations (using forward & reverse diffusion process to purify imperfect demonstrations)
+
+Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition (a diffusion-model-based assistive agent to learn how to assist humans in collecting data in a shared control manner)
 
 + [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
