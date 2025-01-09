@@ -225,6 +225,11 @@ FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow M
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12953)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mbreuss.github.io/MoDE_Diffusion_Policy/)
 
++ [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) (Dec 2024) (uses diffusion transformer)
+  [![Star](https://img.shields.io/github/stars/thu-ml/RoboticsDiffusionTransformer.svg?style=social&label=Star)](https://github.com/thu-ml/RoboticsDiffusionTransformer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07864)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://rdt-robotics.github.io/rdt-robotics/)
+
 
 Is Conditional Generative Modeling all you need for Decision-Making? (Decision Diffuser)
 
@@ -314,6 +319,8 @@ MaIL: Improving Imitation Learning with Selective State Space Models (using Mamb
 Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning
 
 The Ingredients for Robotic Diffusion Transformers
+
+Diffusion Transformer Policy
 
 Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation
 
@@ -518,6 +525,8 @@ Diffusion model is an effective planner and data synthesizer for multi-task rein
 Learning Visual Parkour from Generated Images
 
 GHIL-Glue: Hierarchical Control with Filtered Subgoal Images
+
+VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation (inverse dynamics, distillation from video to action generation)
 
 #### World models in robotics:
 
