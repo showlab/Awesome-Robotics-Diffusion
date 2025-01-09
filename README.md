@@ -254,6 +254,8 @@ Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpo
 
 M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes (mobile manipulation)
 
+Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (mobile manipulation)
+
 + [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09629)
@@ -270,6 +272,8 @@ ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos
 
 SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting (Sim2Real)
 
+---
+
 Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects (Deformable)
 
 SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Diffusion Policy (3D deformable objects)
@@ -278,13 +282,15 @@ RoPotter: Toward Robotic Pottery and Deformable Object Manipulation with Structu
 
 Garment Diffusion Models for Robot-Assisted Dressing
 
-Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (Both manipulation and navigation)
+---
 
 Diffusion Co-Policy for Synergistic Human-Robot Collaborative Tasks
 
 PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations
 
 Learning Playing Piano with Bionic-Constrained Diffusion Policy for Anthropomorphic Hand
+
+---
 
 Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control (considering compliance / forces during manipulation)
 
@@ -302,9 +308,13 @@ Admittance Visuomotor Policy Learning for General-Purpose Contact-Rich Manipulat
 
 FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulatio (force, contact)
 
+---
+
 CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
 
 GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
+
+---
 
 Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation (3D, object centric, single task generalization)
 
@@ -313,6 +323,16 @@ Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Pol
 Motion Before Action: Diffusing Object Motion as Manipulation Condition (object motion)
 
 SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation (Tracking object pose)
+
+---
+
+C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation)
+
+From Imitation to Refinement – Residual RL for Precise Assembly (distribution shifts)
+
+Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress (out-of-distribution scenarios, detect failures)
+
+---
 
 MaIL: Improving Imitation Learning with Selective State Space Models (using Mamba)
 
@@ -323,12 +343,6 @@ The Ingredients for Robotic Diffusion Transformers
 Diffusion Transformer Policy
 
 Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation
-
-C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation)
-
-From Imitation to Refinement – Residual RL for Precise Assembly (distribution shifts)
-
-Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress (out-of-distribution scenarios, detect failures)
 
 DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
 
