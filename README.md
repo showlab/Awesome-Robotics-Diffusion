@@ -182,10 +182,19 @@ Panda Arm
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03954)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-diffusion-policy.github.io/)
 
++ [RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective](https://arxiv.org/abs/2404.12281) (IROS 2024)
+  [![Star](https://img.shields.io/github/stars/rise-policy/rise.svg?style=social&label=Star)](https://github.com/rise-policy/rise)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.12281)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://rise-policy.github.io/)
+
 + [Vision-Language-Affordance-based Robot Manipulation with Flow Matching](https://arxiv.org/abs/2409.01083) (Sep 2024)
   [![Star](https://img.shields.io/github/stars/HRI-EU/flow-matching-policy.svg?style=social&label=Star)](https://github.com/HRI-EU/flow-matching-policy)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01083)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hri-eu.github.io/flow-matching-policy/)
+
+Flow Matching Imitation Learning for Multi-Support Manipulation (Flow matching)
+
+FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation
 
 + [Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation](https://arxiv.org/abs/2412.02676) (Sep 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02676)
@@ -248,11 +257,7 @@ M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3
 
 Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior (Highly Theoretical)
 
-Flow Matching Imitation Learning for Multi-Support Manipulation (Flow matching)
-
 Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States
-
-DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability (With constraint)
 
 Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
 
@@ -266,13 +271,15 @@ SculptDiff: Learning Robotic Clay Sculpting from Humans with Goal Conditioned Di
 
 RoPotter: Toward Robotic Pottery and Deformable Object Manipulation with Structural Priors (3D deformable, pottery)
 
+Garment Diffusion Models for Robot-Assisted Dressing
+
 Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (Both manipulation and navigation)
 
 Diffusion Co-Policy for Synergistic Human-Robot Collaborative Tasks
 
 PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations
 
-GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
+Learning Playing Piano with Bionic-Constrained Diffusion Policy for Anthropomorphic Hand
 
 Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control (considering compliance / forces during manipulation)
 
@@ -288,11 +295,19 @@ TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation (fo
 
 Admittance Visuomotor Policy Learning for General-Purpose Contact-Rich Manipulations (force, contact-rich)
 
+FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulatio (force, contact)
+
 CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
+
+GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
 
 Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation (3D, object centric, single task generalization)
 
 Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Policy Learning using Affordance-Centric Task Frames (object centric)
+
+Motion Before Action: Diffusing Object Motion as Manipulation Condition (object motion)
+
+SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation (Tracking object pose)
 
 MaIL: Improving Imitation Learning with Selective State Space Models (using Mamba)
 
@@ -304,13 +319,29 @@ Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manip
 
 C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation)
 
-DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
-
-Sampling Constrained Trajectories Using Composable Diffusion Models (Trajectory optimization with constraints present)
-
-SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation (Tracking object pose)
+From Imitation to Refinement – Residual RL for Precise Assembly (distribution shifts)
 
 Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress (out-of-distribution scenarios, detect failures)
+
+DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
+
+Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
+
+Legibility Diffuser: Offline Imitation for Intent Expressive Motion (legible motion)
+
+JUICER: Data-Efficient Imitation Learning for Robotic Assembly (learn from small human demonstrations)
+
+Diffusion-PbD: Generalizable Robot Programming by Demonstration with Diffusion Features (learn from single demonstration)
+
+Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment (human preference alignment)
+
+INSTANT POLICY: IN-CONTEXT IMITATION LEARNING VIA GRAPH DIFFUSION (graph diffusion)
+
+FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation (ambiguity)
+
+Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies (adversarial attack)
+
+Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization (demo data selection and filter)
 
 + [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
@@ -386,6 +417,12 @@ DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
 DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning (motion planning)
 
 Potential Based Diffusion Motion Planning
+
+RAIL: Reachability-Aided Imitation Learning for Safe Policy Execution (collision free, hard constraints)
+
+Sampling Constrained Trajectories Using Composable Diffusion Models (Trajectory optimization with constraints present)
+
+DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability (With constraint)
 
 #### Others
 
@@ -476,9 +513,11 @@ Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient P
 
 Diffusion model is an effective planner and data synthesizer for multi-task reinforcement learning
 
-3D Vision-Language-Action Generative World Model
+3D-VLA: A 3D Vision-Language-Action Generative World Model
 
 Learning Visual Parkour from Generated Images
+
+GHIL-Glue: Hierarchical Control with Filtered Subgoal Images
 
 #### World models in robotics:
 
@@ -505,6 +544,8 @@ Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners
 Imitation Learning from Purified Demonstrations (using forward & reverse diffusion process to purify imperfect demonstrations)
 
 Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition (a diffusion-model-based assistive agent to learn how to assist humans in collecting data in a shared control manner)
+
+P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Policies (using DIFT for point correspondence)
 
 + [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
