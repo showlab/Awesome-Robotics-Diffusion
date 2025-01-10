@@ -84,7 +84,10 @@ Visual Pusher
 
 Panda Arm
 
-  Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked)
+Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked)
+
+Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standard Gaussian Distribution Noise
+
 
 ### Diffusion Policy
 #### Manipulation
@@ -314,6 +317,8 @@ CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation
 
 GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
 
+DISCO: Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting (zero-shot language-guided diffusion polic)
+
 ---
 
 Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation (3D, object centric, single task generalization)
@@ -323,6 +328,8 @@ Affordance-Centric Policy Learning: Sample Efficient and Generalisable Robot Pol
 Motion Before Action: Diffusing Object Motion as Manipulation Condition (object motion)
 
 SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation (Tracking object pose)
+
+G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation (object centric)
 
 ---
 
@@ -334,7 +341,7 @@ Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistenc
 
 ---
 
-MaIL: Improving Imitation Learning with Selective State Space Models (using Mamba)
+MaIL: Improving Imitation Learning with Mamba (using Mamba)
 
 Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning
 
@@ -356,6 +363,9 @@ Diffusion-PbD: Generalizable Robot Programming by Demonstration with Diffusion F
 
 Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment (human preference alignment)
 
+Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standard Gaussian Distribution Noise (human preference alignment)
+
+
 INSTANT POLICY: IN-CONTEXT IMITATION LEARNING VIA GRAPH DIFFUSION (graph diffusion)
 
 FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation (ambiguity)
@@ -363,6 +373,8 @@ FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Ma
 Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies (adversarial attack)
 
 Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization (demo data selection and filter)
+
+Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals (learning from multimodal goal specifications with few language annotations)
 
 + [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
@@ -444,6 +456,8 @@ RAIL: Reachability-Aided Imitation Learning for Safe Policy Execution (collision
 Sampling Constrained Trajectories Using Composable Diffusion Models (Trajectory optimization with constraints present)
 
 DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability (With constraint)
+
+Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models
 
 #### Others
 
@@ -541,6 +555,8 @@ Learning Visual Parkour from Generated Images
 GHIL-Glue: Hierarchical Control with Filtered Subgoal Images
 
 VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation (inverse dynamics, distillation from video to action generation)
+
+IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies (3D generation, goal-conditioned)
 
 #### World models in robotics:
 
