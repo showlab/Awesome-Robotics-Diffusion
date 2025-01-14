@@ -145,6 +145,8 @@ Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standar
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.07503)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://consistency-policy.github.io/)
 
+ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation (3D, consistency model, efficiency)
+
 + [Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/abs/2405.01527) (ECCV 2024)
   [![Star](https://img.shields.io/github/stars/homangab/Track-2-Act.svg?style=social&label=Star)](https://github.com/homangab/Track-2-Act/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.01527)
@@ -207,6 +209,10 @@ FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow M
 + [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/pdf/2412.03293) (Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03293)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-vla.github.io/)
+
+RDT-1B: A DIFFUSION FOUNDATION MODEL FOR BIMANUAL MANIPULATION
+
+Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
 
 + [XSkill: Cross Embodiment Skill Discovery](https://arxiv.org/abs/2307.09955) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/real-stanford/xskill.svg?style=social&label=Star)](https://github.com/real-stanford/xskill)
@@ -311,6 +317,8 @@ Admittance Visuomotor Policy Learning for General-Purpose Contact-Rich Manipulat
 
 FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulatio (force, contact)
 
+Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning (tactile, force)
+
 ---
 
 CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
@@ -318,6 +326,16 @@ CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation
 GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
 
 DISCO: Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting (zero-shot language-guided diffusion polic)
+
+Learning Generalizable 3D Manipulation With 10 Demonstrations (3D, few-shot generalizability)
+
+JUICER: Data-Efficient Imitation Learning for Robotic Assembly (learn from small human demonstrations)
+
+Diffusion-PbD: Generalizable Robot Programming by Demonstration with Diffusion Features (learn from single demonstration)
+
+ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy (learn from few demonstrations)
+
+Imitation Learning with Limited Actions via Diffusion Planners and Deep Koopman Controllers (learn from few demonstrations)
 
 ---
 
@@ -343,6 +361,8 @@ Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistenc
 
 MaIL: Improving Imitation Learning with Mamba (using Mamba)
 
+Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models (Mamba)
+
 Crossway Diffusion: Improving Diffusion-based Visuomotor Policy via Self-supervised Learning
 
 The Ingredients for Robotic Diffusion Transformers
@@ -351,15 +371,8 @@ Diffusion Transformer Policy
 
 Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation
 
-DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
-
-Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
-
 Legibility Diffuser: Offline Imitation for Intent Expressive Motion (legible motion)
 
-JUICER: Data-Efficient Imitation Learning for Robotic Assembly (learn from small human demonstrations)
-
-Diffusion-PbD: Generalizable Robot Programming by Demonstration with Diffusion Features (learn from single demonstration)
 
 Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment (human preference alignment)
 
@@ -375,6 +388,11 @@ Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Poli
 Towards Effective Utilization of Mixed-Quality Demonstrations in Robotic Manipulation via Segment-Level Selection and Optimization (demo data selection and filter)
 
 Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals (learning from multimodal goal specifications with few language annotations)
+
+Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance (agile tasks)
+
+Cutting Sequence Diffuser: Sim-to-Real Transferable Planning for Object Shaping by Grinding (grinding through grinding belt)
+
 
 + [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
@@ -428,6 +446,10 @@ Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control (out-of-
 
 Learning Visuotactile Skills with Two Multifingered Hands
 
+DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
+
+Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3) × R3
+
 #### Navigation / Task and Motion Planning
 
 + [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
@@ -439,13 +461,19 @@ NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
 
 DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots
 
-SafeDiffuser: Safe Planning with Diffusion Probabilistic Models
-
-LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning
-
 LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance
 
 DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
+
+FloNa: Floor Plan Guided Embodied Visual Navigation
+
+Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge Transfer and Diffusion Motion Planning
+
+---
+
+LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning
+
+SafeDiffuser: Safe Planning with Diffusion Probabilistic Models
 
 DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning (motion planning)
 
@@ -557,6 +585,8 @@ GHIL-Glue: Hierarchical Control with Filtered Subgoal Images
 VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation (inverse dynamics, distillation from video to action generation)
 
 IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies (3D generation, goal-conditioned)
+
+Embodiment-agnostic Action Planning via Object-Part Scene Flow (generate object part flow)
 
 #### World models in robotics:
 
