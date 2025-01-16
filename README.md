@@ -201,6 +201,8 @@ Flow Matching Imitation Learning for Multi-Support Manipulation (Flow matching)
 
 FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation
 
+Fast and Robust Visuomotor Riemannian Flow Matching Policy
+
 + [Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation](https://arxiv.org/abs/2412.02676) (Sep 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02676)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://glide-manip.github.io/)
@@ -393,6 +395,11 @@ Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically 
 
 Cutting Sequence Diffuser: Sim-to-Real Transferable Planning for Object Shaping by Grinding (grinding through grinding belt)
 
+Goal-Reaching Policy Learning from Non-Expert Observations via Effective Subgoal Guidance (Diffusion sub-goals generation)
+
+Hierarchical Diffusion Policy: manipulation trajectory generation via contact guidance (DP with contact guidance)
+
+Implicit Contact Diffuser: Sequential Contact Reasoning with Latent Point Cloud Diffusion (contact)
 
 + [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
@@ -450,6 +457,8 @@ DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method fo
 
 Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3) × R3
 
+DAP: Diffusion-based Affordance Prediction for Multi-modality Storage (storage problem to be accurate)
+
 #### Navigation / Task and Motion Planning
 
 + [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
@@ -468,6 +477,10 @@ DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
 FloNa: Floor Plan Guided Embodied Visual Navigation
 
 Learning Wheelchair Tennis Navigation from Broadcast Videos with Domain Knowledge Transfer and Diffusion Motion Planning
+
+FlowNav: Learning Efficient Navigation Policies via Conditional Flow Matching (flow matching)
+
+Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks (Replanning)
 
 ---
 
@@ -587,6 +600,8 @@ VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Ro
 IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies (3D generation, goal-conditioned)
 
 Embodiment-agnostic Action Planning via Object-Part Scene Flow (generate object part flow)
+
+Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks (generate image subgoal)
 
 #### World models in robotics:
 
