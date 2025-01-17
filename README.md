@@ -201,6 +201,8 @@ Flow Matching Imitation Learning for Multi-Support Manipulation (Flow matching)
 
 FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation
 
+ACTIONFLOW: Equivariant, Accurate, and Efficient Policies with Spatially Symmetric Flow Matching
+
 Fast and Robust Visuomotor Riemannian Flow Matching Policy
 
 + [Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation](https://arxiv.org/abs/2412.02676) (Sep 2024)
@@ -359,6 +361,8 @@ From Imitation to Refinement – Residual RL for Precise Assembly (distribution 
 
 Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress (out-of-distribution scenarios, detect failures)
 
+Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation (long horizon, subgoal)
+
 ---
 
 MaIL: Improving Imitation Learning with Mamba (using Mamba)
@@ -401,6 +405,9 @@ Hierarchical Diffusion Policy: manipulation trajectory generation via contact gu
 
 Implicit Contact Diffuser: Sequential Contact Reasoning with Latent Point Cloud Diffusion (contact)
 
+Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning (control net)
+
+
 + [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cpmcorl2023.github.io/)
@@ -426,11 +433,15 @@ DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation (To be checke
 
 Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control (out-of-distribution issue)
 
+The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
+
 #### Grasping / Reorientation
 + [Shelving, stacking, hanging: Relational pose diffusion for multi-modal rearrangement](https://arxiv.org/abs/2307.04751) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/anthonysimeonov/rpdiff.svg?style=social&label=Star)](https://github.com/anthonysimeonov/rpdiff)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04751)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anthonysimeonov.github.io/rpdiff-multi-modal/)
+
+DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation (pose estimation)
 
 + [Learning score-based grasping primitive for human-assisting dexterous grasping](https://arxiv.org/abs/2309.06038) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/tianhaowuhz/human-assisting-dex-grasp.svg?style=social&label=Star)](https://github.com/tianhaowuhz/human-assisting-dex-grasp/)
@@ -473,6 +484,8 @@ DiPPeR: Diffusion-based 2D Path Planner applied on Legged Robots
 LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance
 
 DTG : Diffusion-based Trajectory Generation for Mapless Global Navigation
+
+DARE: Diffusion Policy for Autonomous Robot Exploration
 
 FloNa: Floor Plan Guided Embodied Visual Navigation
 
