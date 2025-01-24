@@ -218,6 +218,8 @@ RDT-1B: A DIFFUSION FOUNDATION MODEL FOR BIMANUAL MANIPULATION
 
 Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
 
+TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
+
 + [XSkill: Cross Embodiment Skill Discovery](https://arxiv.org/abs/2307.09955) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/real-stanford/xskill.svg?style=social&label=Star)](https://github.com/real-stanford/xskill)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09955)
@@ -363,6 +365,8 @@ Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistenc
 
 Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation (long horizon, subgoal)
 
+Failure Prediction from Limited Hardware Demonstrations (failure prediction)
+
 ---
 
 MaIL: Improving Imitation Learning with Mamba (using Mamba)
@@ -383,6 +387,9 @@ Legibility Diffuser: Offline Imitation for Intent Expressive Motion (legible mot
 Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment (human preference alignment)
 
 Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standard Gaussian Distribution Noise (human preference alignment)
+
+Task-based dialogue policy learning based on diffusion models (dialogue guidance, to be check)
+
 
 
 INSTANT POLICY: IN-CONTEXT IMITATION LEARNING VIA GRAPH DIFFUSION (graph diffusion)
@@ -442,6 +449,8 @@ The Role of Domain Randomization in Training Diffusion Policies for Whole-Body H
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anthonysimeonov.github.io/rpdiff-multi-modal/)
 
 DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation (pose estimation)
+
+Precise Pick-and-Place using Score-Based Diffusion Networks (pose prediction, coarse to fine)
 
 + [Learning score-based grasping primitive for human-assisting dexterous grasping](https://arxiv.org/abs/2309.06038) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/tianhaowuhz/human-assisting-dex-grasp.svg?style=social&label=Star)](https://github.com/tianhaowuhz/human-assisting-dex-grasp/)
