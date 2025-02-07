@@ -43,10 +43,10 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.13396)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/bridgedata)
 
-+ [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2108.05877) (ECCV 2022)
+<!-- + [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://arxiv.org/abs/2108.05877) (ECCV 2022)
   [![Star](https://img.shields.io/github/stars/yzqin/dexmv-sim.svg?style=social&label=Star)](https://github.com/yzqin/dexmv-sim)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.05877)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://yzqin.github.io/dexmv/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yzqin.github.io/dexmv/) -->
 
 + [Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning](https://arxiv.org/pdf/2206.08686) (NeurIPS 2022 Datasets and Benchmarks Track)
   [![Star](https://img.shields.io/github/stars/PKU-MARL/DexterousHands.svg?style=social&label=Star)](https://github.com/PKU-MARL/DexterousHands)
@@ -79,8 +79,10 @@ A curated list of recent robot learning papers incorporating diffusion models fo
   [![Website](https://img.shields.io/badge/Website-9cf)](https://libero-project.github.io/intro.html)
 
 
-Visual Pusher
+MuJoCo Manipulus
 
+
+Visual Pusher
 
 Panda Arm
 
