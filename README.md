@@ -164,21 +164,6 @@ ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipula
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01531)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://forrest-110.github.io/sparse_diffusion_policy/)
 
-+ [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) (CoRL 2024)
-  [![Star](https://img.shields.io/github/stars/pointW/equidiff.svg?style=social&label=Star)](https://github.com/pointW/equidiff)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01812)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://equidiff.github.io/)
-
-+ [GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy](https://arxiv.org/abs/2410.17488) (CoRL 2024)
-  [![Star](https://img.shields.io/github/stars/WangYixuan12/gendp.svg?style=social&label=Star)](https://github.com/WangYixuan12/gendp)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17488)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://robopil.github.io/GenDP/)
-
-+ [EquiBot: SIM (3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479) (CoRL 2024)
-  [![Star](https://img.shields.io/github/stars/yjy0625/equibot.svg?style=social&label=Star)](https://github.com/yjy0625/equibot)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01479)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://equi-bot.github.io/)
-
 + [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885) (CoRL 2024)
   [![Star](https://img.shields.io/github/stars/nickgkan/3d_diffuser_actor.svg?style=social&label=Star)](https://github.com/nickgkan/3d_diffuser_actor)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10885)
@@ -207,20 +192,18 @@ ACTIONFLOW: Equivariant, Accurate, and Efficient Policies with Spatially Symmetr
 
 Fast and Robust Visuomotor Riemannian Flow Matching Policy
 
-+ [Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation](https://arxiv.org/abs/2412.02676) (Sep 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02676)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://glide-manip.github.io/)
-  <!-- [![Star](https://img.shields.io/github/stars/HRI-EU/flow-matching-policy.svg?style=social&label=Star)](https://github.com/HRI-EU/flow-matching-policy) -->
-
 + [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/pdf/2412.03293) (Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.03293)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-vla.github.io/)
 
-RDT-1B: A DIFFUSION FOUNDATION MODEL FOR BIMANUAL MANIPULATION
-
 Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
 
 TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
+
++ [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) (Dec 2024) (uses diffusion transformer)
+  [![Star](https://img.shields.io/github/stars/thu-ml/RoboticsDiffusionTransformer.svg?style=social&label=Star)](https://github.com/thu-ml/RoboticsDiffusionTransformer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07864)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://rdt-robotics.github.io/rdt-robotics/)
 
 + [XSkill: Cross Embodiment Skill Discovery](https://arxiv.org/abs/2307.09955) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/real-stanford/xskill.svg?style=social&label=Star)](https://github.com/real-stanford/xskill)
@@ -242,10 +225,6 @@ TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.12953)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mbreuss.github.io/MoDE_Diffusion_Policy/)
 
-+ [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) (Dec 2024) (uses diffusion transformer)
-  [![Star](https://img.shields.io/github/stars/thu-ml/RoboticsDiffusionTransformer.svg?style=social&label=Star)](https://github.com/thu-ml/RoboticsDiffusionTransformer)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07864)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://rdt-robotics.github.io/rdt-robotics/)
 
 
 Is Conditional Generative Modeling all you need for Decision-Making? (Decision Diffuser)
@@ -331,7 +310,27 @@ Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous
 
 CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation (single task generalization)
 
-GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy (single task generalizability)
++ [Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation](https://arxiv.org/abs/2412.02676) (Sep 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02676)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://glide-manip.github.io/)
+  <!-- [![Star](https://img.shields.io/github/stars/HRI-EU/flow-matching-policy.svg?style=social&label=Star)](https://github.com/HRI-EU/flow-matching-policy) -->
+
++ [GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy](https://arxiv.org/abs/2410.17488) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/WangYixuan12/gendp.svg?style=social&label=Star)](https://github.com/WangYixuan12/gendp)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17488)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://robopil.github.io/GenDP/)
+
++ [Equivariant Diffusion Policy](https://arxiv.org/abs/2407.01812) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/pointW/equidiff.svg?style=social&label=Star)](https://github.com/pointW/equidiff)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01812)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://equidiff.github.io/)
+
++ [EquiBot: SIM (3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479) (CoRL 2024)
+  [![Star](https://img.shields.io/github/stars/yjy0625/equibot.svg?style=social&label=Star)](https://github.com/yjy0625/equibot)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01479)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://equi-bot.github.io/)
+
+Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation
 
 DISCO: Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting (zero-shot language-guided diffusion polic)
 
