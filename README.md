@@ -86,7 +86,7 @@ Visual Pusher
 
 Panda Arm
 
-Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked)
+<!-- Dexdeform: Dexterous deformable object manipulation with human demonstrations and differentiable physics (To be checked) -->
 
 Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standard Gaussian Distribution Noise
 
@@ -97,11 +97,6 @@ Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standar
   [![Star](https://img.shields.io/github/stars/microsoft/Imitating-Human-Behaviour-w-Diffusion.svg?style=social&label=Star)](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.10677)
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://pypi.org/project/fvmd/1.0.0/) -->
-  
-+ [Se(3)-diffusionfields: Learning cost functions for joint grasp and motion optimization through diffusion](https://arxiv.org/abs/2209.03855) (ICRA 2023)
-  [![Star](https://img.shields.io/github/stars/robotgradient/grasp_diffusion.svg?style=social&label=Star)](https://github.com/robotgradient/grasp_diffusion)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.03855)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/se3dif)
 
 + [Diffusion policy: Visuomotor policy learning via action diffusion](https://arxiv.org/abs/2303.04137) (RSS 2023)
   [![Star](https://img.shields.io/github/stars/real-stanford/diffusion_policy.svg?style=social&label=Star)](https://github.com/real-stanford/diffusion_policy)
@@ -250,12 +245,7 @@ Robust Imitation Learning for Mobile Manipulator Focusing on Task-Related Viewpo
 
 M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes (mobile manipulation)
 
-Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (mobile manipulation)
-
-+ [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
-  [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09629)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/replandiffuser/)
+Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation (a unified cross-embodiment model for both manipulation and navigation, but executed separately)
 
 
 Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stability and High-Level Behavior (Highly Theoretical)
@@ -263,8 +253,6 @@ Provable Guarantees for Generative Behavior Cloning: Bridging Low-Level Stabilit
 Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States
 
 Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation
-
-ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos
 
 SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting (Sim2Real)
 
@@ -280,13 +268,13 @@ Garment Diffusion Models for Robot-Assisted Dressing
 
 ---
 
-Diffusion Co-Policy for Synergistic Human-Robot Collaborative Tasks
-
 PianoMime: Learning a Generalist, Dexterous Piano Player from Internet Demonstrations
 
 Learning Playing Piano with Bionic-Constrained Diffusion Policy for Anthropomorphic Hand
 
 ---
+
+Learning Visuotactile Skills with Two Multifingered Hands
 
 Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control (considering compliance / forces during manipulation)
 
@@ -358,13 +346,20 @@ G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Mani
 
 ---
 
-C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation)
+C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation, distraction free)
 
 From Imitation to Refinement – Residual RL for Precise Assembly (distribution shifts)
+
++ [Adaptive Online Replanning with Diffusion Models](https://arxiv.org/abs/2310.09629) (NeurIPS 2023)
+  [![Star](https://img.shields.io/github/stars/rainbow979/replandiffuser.svg?style=social&label=Star)](https://github.com/rainbow979/replandiffuser)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09629)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vis-www.cs.umass.edu/replandiffuser/)
 
 Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress (out-of-distribution scenarios, detect failures)
 
 Subgoal Diffuser: Coarse-to-fine Subgoal Generation to Guide Model Predictive Control for Robot Manipulation (long horizon, subgoal)
+
+Goal-Reaching Policy Learning from Non-Expert Observations via Effective Subgoal Guidance (Diffusion sub-goals generation)
 
 Failure Prediction from Limited Hardware Demonstrations (failure prediction)
 
@@ -382,12 +377,12 @@ Diffusion Transformer Policy
 
 Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation
 
-Legibility Diffuser: Offline Imitation for Intent Expressive Motion (legible motion)
+<!-- Legibility Diffuser: Offline Imitation for Intent Expressive Motion (legible motion) -->
 
+
+Diffusion Co-Policy for Synergistic Human-Robot Collaborative Tasks
 
 Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment (human preference alignment)
-
-Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standard Gaussian Distribution Noise (human preference alignment)
 
 Task-based dialogue policy learning based on diffusion models (dialogue guidance, to be check)
 
@@ -406,8 +401,6 @@ Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Go
 Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance (agile tasks)
 
 Cutting Sequence Diffuser: Sim-to-Real Transferable Planning for Object Shaping by Grinding (grinding through grinding belt)
-
-Goal-Reaching Policy Learning from Non-Expert Observations via Effective Subgoal Guidance (Diffusion sub-goals generation)
 
 Hierarchical Diffusion Policy: manipulation trajectory generation via contact guidance (DP with contact guidance)
 
@@ -443,7 +436,11 @@ Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control (out-of-
 
 The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
 
-#### Grasping / Reorientation
+---
+Reorientation / Pose estimation
+
+StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects (using diffusion model to generate correct pose for 3D objects)
+
 + [Shelving, stacking, hanging: Relational pose diffusion for multi-modal rearrangement](https://arxiv.org/abs/2307.04751) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/anthonysimeonov/rpdiff.svg?style=social&label=Star)](https://github.com/anthonysimeonov/rpdiff)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04751)
@@ -453,14 +450,29 @@ DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Categor
 
 Precise Pick-and-Place using Score-Based Diffusion Networks (pose prediction, coarse to fine)
 
++ [Reorientdiff: Diffusion model based reorientation for object manipulation](https://arxiv.org/abs/2303.12700) (ICRA 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12700)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://umishra.me/ReorientDiff/)
+
+DAP: Diffusion-based Affordance Prediction for Multi-modality Storage (storage problem to be accurate)
+
++ [Se(3)-diffusionfields: Learning cost functions for joint grasp and motion optimization through diffusion](https://arxiv.org/abs/2209.03855) (ICRA 2023)
+  [![Star](https://img.shields.io/github/stars/robotgradient/grasp_diffusion.svg?style=social&label=Star)](https://github.com/robotgradient/grasp_diffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.03855)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/se3dif)
+
+#### Dexterous Manipulation
+
+
+ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos (learn from video, grasping)
+
+Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
+
 + [Learning score-based grasping primitive for human-assisting dexterous grasping](https://arxiv.org/abs/2309.06038) (NeurIPS 2023)
   [![Star](https://img.shields.io/github/stars/tianhaowuhz/human-assisting-dex-grasp.svg?style=social&label=Star)](https://github.com/tianhaowuhz/human-assisting-dex-grasp/)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.06038)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/graspgf)
 
-+ [Reorientdiff: Diffusion model based reorientation for object manipulation](https://arxiv.org/abs/2303.12700) (ICRA 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12700)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://umishra.me/ReorientDiff/)
 
 + [DexDiffuser: Generating Dexterous Grasps with Diffusion Models](https://arxiv.org/abs/2402.02989) (Feb 2024)
   [![Star](https://img.shields.io/github/stars/YuLiHN/DexDiffuser.svg?style=social&label=Star)](https://github.com/YuLiHN/DexDiffuser)
@@ -472,13 +484,10 @@ Precise Pick-and-Place using Score-Based Diffusion Networks (pose prediction, co
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.12421)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://unidexfpm.github.io/)
 
-Learning Visuotactile Skills with Two Multifingered Hands
-
 DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method for Multi-Dexterous Robotic Hands
 
 Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3) × R3
 
-DAP: Diffusion-based Affordance Prediction for Multi-modality Storage (storage problem to be accurate)
 
 #### Navigation / Task and Motion Planning
 
@@ -522,6 +531,7 @@ Sampling Constrained Trajectories Using Composable Diffusion Models (Trajectory 
 DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability (With constraint)
 
 Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models
+(Motion Planning Diffusion: Learning and Planning of Robot Motions with Diffusion Models)
 
 #### Others
 
