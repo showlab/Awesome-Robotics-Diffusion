@@ -489,12 +489,12 @@ DexGrasp-Diffusion: Diffusion-based Unified Functional Grasp Synthesis Method fo
 Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3) × R3
 
 
-#### Navigation / Task and Motion Planning
+#### Navigation
 
-+ [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
+<!-- + [Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion](https://arxiv.org/abs/2407.01392) (NeurIPS 2024)
   [![Star](https://img.shields.io/github/stars/buoyancy99/diffusion-forcing.svg?style=social&label=Star)](https://github.com/buoyancy99/diffusion-forcing)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01392)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://boyuan.space/diffusion-forcing/) -->
 
 NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
 
@@ -514,7 +514,7 @@ FlowNav: Learning Efficient Navigation Policies via Conditional Flow Matching (f
 
 Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks (Replanning)
 
----
+#### Task and Motion Planning
 
 LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning
 
@@ -611,6 +611,8 @@ DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models (Drones
   [![Star](https://img.shields.io/github/stars/genaug/genaug.svg?style=social&label=Star)](https://github.com/genaug/genaug)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.06671)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://genaug.github.io/)
+
+ViNT: A foundation model for visual navigation (navigation, sub goal image generation)
 
 GR-MG: Leveraging Partially-Annotated Data via Multi-Modal Goal-Conditioned Policy (generate goal image)
 
