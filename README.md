@@ -108,8 +108,9 @@ Concealed Backdoor Attack on Diffusion Models for Smart Devices with Non-standar
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02532)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://intuitive-robots.github.io/beso-website/)
 
-+ [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://www.sciencedirect.com/science/article/abs/pii/S0950705124008244) (CoRL 2023)
++ [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535) (CoRL 2023)
   [![Star](https://img.shields.io/github/stars/real-stanford/scalingup.svg?style=social&label=Star)](https://github.com/real-stanford/scalingup)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14535)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.cs.columbia.edu/~huy/scalingup/)
 
 + [ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation](https://openreview.net/forum?id=W0zgY2mBTA8) (CoRL 2023)
@@ -194,6 +195,10 @@ Fast and Robust Visuomotor Riemannian Flow Matching Policy
 Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand (Combining openVLA and diffusion policy)
 
 TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation
+
+3D-VLA: A 3D Vision-Language-Action Generative World Model
+
+VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation (faster inference)
 
 + [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) (Dec 2024) (uses diffusion transformer)
   [![Star](https://img.shields.io/github/stars/thu-ml/RoboticsDiffusionTransformer.svg?style=social&label=Star)](https://github.com/thu-ml/RoboticsDiffusionTransformer)
@@ -290,7 +295,7 @@ TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation (fo
 
 Admittance Visuomotor Policy Learning for General-Purpose Contact-Rich Manipulations (force, contact-rich)
 
-FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulatio (force, contact)
+FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation (force, contact)
 
 Canonical Representation and Force-Based Pretraining of 3D Tactile for Dexterous Visuo-Tactile Policy Learning (tactile, force)
 
@@ -623,8 +628,6 @@ Scaling Robot Learning with Semantically Imagined Experience
 Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
 
 Diffusion model is an effective planner and data synthesizer for multi-task reinforcement learning
-
-3D-VLA: A 3D Vision-Language-Action Generative World Model
 
 Learning Visual Parkour from Generated Images
 
