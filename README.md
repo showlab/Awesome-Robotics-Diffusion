@@ -217,7 +217,7 @@ VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Cac
 
 + [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890) (CVPR 2024)
   [![Star](https://img.shields.io/github/stars/dyson-ai/hdp.svg?style=social&label=Star)](https://github.com/dyson-ai/hdp)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.038908)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03890)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yusufma03.github.io/projects/hdp/)
 
 + [Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning](https://arxiv.org/abs/2412.12953) (Dec 2024)
@@ -349,6 +349,12 @@ SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation (Tracking 
 
 G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation (object centric)
 
+Hierarchical Diffusion Policy: manipulation trajectory generation via contact guidance (DP with object contact guidance)
+
++ [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cpmcorl2023.github.io/)
+
 ---
 
 C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning (tackle spurious correlation, distraction free)
@@ -392,6 +398,7 @@ Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Vis
 Task-based dialogue policy learning based on diffusion models (dialogue guidance, to be check)
 
 
+Precise Pick-and-Place using Score-Based Diffusion Networks (pose prediction, coarse to fine)
 
 INSTANT POLICY: IN-CONTEXT IMITATION LEARNING VIA GRAPH DIFFUSION (graph diffusion)
 
@@ -407,16 +414,9 @@ Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically 
 
 Cutting Sequence Diffuser: Sim-to-Real Transferable Planning for Object Shaping by Grinding (grinding through grinding belt)
 
-Hierarchical Diffusion Policy: manipulation trajectory generation via contact guidance (DP with contact guidance)
-
 Implicit Contact Diffuser: Sequential Contact Reasoning with Latent Point Cloud Diffusion (contact)
 
 Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning (control net)
-
-
-+ [Composable Part-Based Manipulation](https://arxiv.org/abs/2405.05876) (CoRL 2023)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.05876)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://cpmcorl2023.github.io/)
 
 FREE FROM BELLMAN COMPLETENESS: TRAJECTORY STITCHING VIA MODEL-BASED RETURN-CONDITIONED SUPERVISED LEARNING
 
@@ -452,8 +452,6 @@ StructDiffusion: Language-Guided Creation of Physically-Valid Structures using U
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anthonysimeonov.github.io/rpdiff-multi-modal/)
 
 DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation (pose estimation)
-
-Precise Pick-and-Place using Score-Based Diffusion Networks (pose prediction, coarse to fine)
 
 + [Reorientdiff: Diffusion model based reorientation for object manipulation](https://arxiv.org/abs/2303.12700) (ICRA 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12700)
