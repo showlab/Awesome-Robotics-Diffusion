@@ -186,6 +186,8 @@ FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow M
 
 ACTIONFLOW: Equivariant, Accurate, and Efficient Policies with Spatially Symmetric Flow Matching
 
+Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching
+
 Fast and Robust Visuomotor Riemannian Flow Matching Policy
 
 + [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/pdf/2412.03293) (Dec 2024)
@@ -614,6 +616,8 @@ DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models (Drones
   [![Star](https://img.shields.io/github/stars/genaug/genaug.svg?style=social&label=Star)](https://github.com/genaug/genaug)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.06671)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://genaug.github.io/)
+
+Scaling Robot Learning with Semantically Imagined Experience (augmentation)
 
 ViNT: A foundation model for visual navigation (navigation, sub goal image generation)
 
