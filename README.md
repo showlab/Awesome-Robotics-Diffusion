@@ -601,7 +601,7 @@ DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models (Drones
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09016)
   <!-- [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/diffusion-meets-dagger) -->
 
-+ SOAR: [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) (CoRL 2024)
++ SOAR: [Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) (CoRL 2024) (augmentation)
   [![Star](https://img.shields.io/github/stars/rail-berkeley/soar.svg?style=social&label=Star)](https://github.com/rail-berkeley/soar)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20635)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://auto-improvement.github.io/)
@@ -624,8 +624,6 @@ ViNT: A foundation model for visual navigation (navigation, sub goal image gener
 GR-MG: Leveraging Partially-Annotated Data via Multi-Modal Goal-Conditioned Policy (generate goal image)
 
 Generative Image as Action Models
-
-Scaling Robot Learning with Semantically Imagined Experience
 
 Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning
 
