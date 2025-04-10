@@ -1,4 +1,10 @@
 # Awesome Robot Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
+
+Please refer to our survey for detailed review:
+
+[Diffusion Models in Robotics: A survey](https://www.researchgate.net/publication/390661359_Diffusion_Models_in_Robotics_A_Survey)
+----
+
 A curated list of recent robot learning papers incorporating diffusion models for manipulation, navigation, planning etc.
 
 The paper list is structured so that each paper falls into only one place. While some methods could fit into multiple places, we place each one in the most relevant class.
