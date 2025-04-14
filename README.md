@@ -33,6 +33,7 @@ The paper list is structured so that each paper falls into only one place. While
 - [Diffusion as Synthesizer](#diffusion-as-synthesizer)
 - [Task Objectives and Applications](#task-objectives-and-applications)
 - [Robot Learning Utilizing Diffusion Model Properties](#robot-learning-utilizing-diffusion-model-properties)
+- [Citation](#citation)
 
 
 ### Benchmarks
@@ -761,3 +762,14 @@ P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Polic
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/)
 
+### Citation
+
+If our work helps you in your research, please kindly cite our paper 😀.
+
+```bibtex
+@article{liu2025diffusion,
+  title={Diffusion Models in Robotics: A Survey},
+  author={Liu, Xiaokang and Ma, Kevin Yuchen and Gao, Chen and Shou, Mike Zheng},
+  year={2025}
+}
+```
