@@ -136,6 +136,11 @@ The paper list is structured so that each paper falls into only one place. While
 
 + Fast and Robust Visuomotor Riemannian Flow Matching Policy
 
++ [Safe Flow Matching: Robot Motion Planning with Control Barrier Functions](https://arxiv.org/abs/2504.08661)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.08661)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://safeflowmatching.github.io/SafeFM/)
+
+
 #### Architecture Level
 
 **DiT**
@@ -458,6 +463,10 @@ The paper list is structured so that each paper falls into only one place. While
   [![Star](https://img.shields.io/github/stars/vishal-2000/EDMP.svg?style=social&label=Star)](https://github.com/vishal-2000/EDMP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.11414)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ensemble-of-costs-diffusion.github.io/)
+
++ [Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation](https://arxiv.org/pdf/2503.10743) (CVPR 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.10743)
+
 
 + Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models
 
