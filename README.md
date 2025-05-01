@@ -525,6 +525,8 @@ The paper list is structured so that each paper falls into only one place. While
 
 + Task-based dialogue policy learning based on diffusion models
 
++ [Autonomous Human-Robot Interaction via Operator Imitation](https://arxiv.org/pdf/2504.02724)
+
 #### Mobile Manipulation
 
 + [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353) (CoRL 2024)
@@ -711,17 +713,15 @@ SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wi
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10803)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://humanoid-manipulation.github.io/)
 
-Diffusion-based learning of contact plans for agile locomotion
++ [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://dl.acm.org/doi/10.1145/3680528.3687626)
 
-DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation (To be checked)
++ Diffusion-based learning of contact plans for agile locomotion
 
-Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control (out-of-distribution issue)
++ DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation (To be checked)
 
-The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
++ Preference Aligned Diffusion Planner for Quadrupedal Locomotion Control (out-of-distribution issue)
 
----
-Reorientation / Pose estimation
-
++ The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
 
 
 
