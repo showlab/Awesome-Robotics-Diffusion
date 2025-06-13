@@ -1,13 +1,36 @@
 # Awesome Robot Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
+A curated list of recent robot learning papers incorporating diffusion models for manipulation, navigation, planning etc.
+The paper list is structured so that each paper falls into only one place. While some methods could fit into multiple places, we place each one in the most relevant class.
 
-Please refer to our survey for detailed review:
+Please refer to our survey paper for detailed review:
 
-[Diffusion Models in Robotics: A survey](https://www.researchgate.net/publication/390661359_Diffusion_Models_in_Robotics_A_Survey)
+<div align="center">
+<h3>Diffusion Models in Robotics: A survey</h3>
+
+[Xiaokang Liu](https://scholar.google.com/citations?user=dAEHm8AAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>&nbsp;
+[Yuchen Ma](https://scholar.google.com/citations?user=_6xM_IcAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>&nbsp;
+[Chen Gao](https://chengaopro.github.io/)<sup>1</sup>&nbsp;
+[Mike Zheng Shou](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>&nbsp;
+
+<sup>1</sup>[Show Lab](https://sites.google.com/view/showlab), National University of Singapore&nbsp;
+ 
+[![ArXiv](https://img.shields.io/badge/Preprint-<paper>-<COLOR>.svg)](https://www.researchgate.net/profile/Xiaokang-Liu-15/publication/390661359_Diffusion_Models_in_Robotics_A_Survey/links/67f7b329401b473b8b988f2a/Diffusion-Models-in-Robotics-A-Survey.pdf)
+
+</div>
+<br>
+
+
+If our work helps you in your research, please kindly cite our paper 😀.
+
+```bibtex
+@article{liu2025diffusion,
+  title={Diffusion Models in Robotics: A Survey},
+  author={Liu, Xiaokang and Ma, Kevin Yuchen and Gao, Chen and Shou, Mike Zheng},
+  year={2025}
+}
+```
 ----
 
-A curated list of recent robot learning papers incorporating diffusion models for manipulation, navigation, planning etc.
-
-The paper list is structured so that each paper falls into only one place. While some methods could fit into multiple places, we place each one in the most relevant class.
 
 <!-- <p align="center">
 <img src="https://makeavideo.studio/assets/overview.webp" width="240px"/>
@@ -771,14 +794,3 @@ P3-PO: Prescriptive Point Priors for Visuo-Spatial Generalization of Robot Polic
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.14134)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://diffusion-reward.github.io/)
 
-### Citation
-
-If our work helps you in your research, please kindly cite our paper 😀.
-
-```bibtex
-@article{liu2025diffusion,
-  title={Diffusion Models in Robotics: A Survey},
-  author={Liu, Xiaokang and Ma, Kevin Yuchen and Gao, Chen and Shou, Mike Zheng},
-  year={2025}
-}
-```
