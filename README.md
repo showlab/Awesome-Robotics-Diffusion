@@ -2,7 +2,7 @@
 A curated list of recent robot learning papers incorporating diffusion models for manipulation, navigation, planning etc.
 The paper list is structured so that each paper falls into only one place. While some methods could fit into multiple places, we place each one in the most relevant class.
 
-Please refer to our survey paper for detailed review:
+Please refer to our survey paper below for detailed review, which has been accepted to International Journal of Computer Vision (IJCV).
 
 <div align="center">
 <h3>Diffusion Models in Robotics: A survey</h3>
