@@ -23,10 +23,15 @@ Please refer to our survey paper below for detailed review, which has been accep
 If our work helps you in your research, please kindly cite our paper 😀.
 
 ```bibtex
-@article{liu2025diffusion,
-  title={Diffusion Models in Robotics: A Survey},
+@article{liu2026diffusion,
+  title={Diffusion models in robotics: A survey},
   author={Liu, Xiaokang and Ma, Kevin Yuchen and Gao, Chen and Shou, Mike Zheng},
-  year={2025}
+  journal={International Journal of Computer Vision},
+  volume={134},
+  number={6},
+  pages={299},
+  year={2026},
+  publisher={Springer}
 }
 ```
 ----
