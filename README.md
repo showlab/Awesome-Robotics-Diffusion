@@ -392,6 +392,9 @@ If our work helps you in your research, please kindly cite our paper 😀.
 
 #### Planning
 
++ DriveVA: [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) (ECCV 2026)
+  [![Star](https://img.shields.io/github/stars/xiaomi-mlab/DriveVA.svg?style=social&label=Star)](https://github.com/xiaomi-mlab/DriveVA)
+
 + DALL-E-Bot: [DALL-E-Bot: Introducing Web-Scale Diffusion Models to Robotics](https://arxiv.org/abs/2210.02438) (RA-Letters 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02438)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.robot-learning.uk/dall-e-bot)
