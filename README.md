@@ -392,6 +392,7 @@ If our work helps you in your research, please kindly cite our paper 😀.
 
 #### Planning
 + SAGE [Improving Diffusion Planners by Self-Supervised Action Gating with Energies](https://arxiv.org/abs/2603.02650) (ICML 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02650)
   [![Star](https://img.shields.io/github/stars/edluyuan/sage.svg?style=social&label=Star)](https://github.com/edluyuan/sage)
 
 + DriveVA: [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) (ECCV 2026)
