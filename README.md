@@ -202,6 +202,10 @@ If our work helps you in your research, please kindly cite our paper 😀.
 
 + ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy
 
++ [Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2610.03333) (CoRL 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.03333)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vista-paper.github.io/)
+
 **Mamba Models**
 
 + MaIL: Improving Imitation Learning with Mamba
